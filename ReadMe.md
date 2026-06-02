@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Nintendo 3ds Homebrew apps<br>👯 I’m looking to collaborate on Scratcheverywhere<br>🤝 I’m looking for help with java<br>🌱 I’m currently learning c++<br>💬 Ask me about HTML<br>⚡ Fun fact i like Minecraft
+🔭 I’m currently working on minecraft stuff<br>👯 I’m looking to collaborate on Scratcheverywhere<br>🤝 I’m looking for help with java<br>🌱 I’m currently learning nothing<br>💬 Ask me about HTML<br>⚡ Fun fact i like Minecraft
 
 
 ## 🌐 Socials:
